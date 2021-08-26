@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @blazarus23
+- 👀 I’m interested in Sport science & coding!
+- 🌱 I’m currently learning Python (data analysis & maching learning) and MySQL
+- 📫 How to reach me brendan.lazarus@live.vu.edu.au
